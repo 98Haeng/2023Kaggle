@@ -6,3 +6,6 @@
 ## 업로드
 [1] : Heart Attack Analysis & Prediction %86.67
   - 참조 사이트 : https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7
+  
+[2] : Netflix Data Visualization
+  - 참조 사이트 : https://www.kaggle.com/code/joshuaswords/netflix-data-visualization
