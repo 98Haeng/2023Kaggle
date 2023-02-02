@@ -9,3 +9,6 @@
   
 [2] : Netflix Data Visualization
   - 참조 사이트 : https://www.kaggle.com/code/joshuaswords/netflix-data-visualization
+
+[3] : LOL worlds 2021
+  - 참조 사이트 : https://www.kaggle.com/code/bayunova/league-of-legends-worlds
